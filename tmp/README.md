@@ -1,0 +1,1 @@
+Use this directory to hold temporary files for intermediate processing.
